@@ -9,4 +9,3 @@ def change_rainbow_colors
     puts rainbow_colors[2]
 end
 
-puts change_rainbow_colors
